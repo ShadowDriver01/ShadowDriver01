@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ola, eu estou usando o alura para poder compartilhar meus projetos 👋
 
 <!--
 **ShadowDriver01/ShadowDriver01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
